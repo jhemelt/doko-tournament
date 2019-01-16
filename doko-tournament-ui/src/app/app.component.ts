@@ -19,6 +19,16 @@ export class AppComponent {
       title: 'List',
       url: '/list',
       icon: 'list'
+    },
+    {
+      title: 'Turnier erfassen',
+      url: '/tournament',
+      icon: 'tournament'
+    },
+    {
+      title: 'Teilnehmer erfassen',
+      url: '/participants',
+      icon: 'participants'
     }
   ];
 
